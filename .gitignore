@@ -1,1 +1,4 @@
+data/
 cache/
+.Trash-*/
+**/.ipynb_checkpoints/

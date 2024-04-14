@@ -1,0 +1,21 @@
+dtreeviz
+graphviz
+ipywidgets
+ipython
+jupyter_contrib_nbextensions
+matplotlib
+mglearn
+notebook == 6.5.4
+numpy
+opencv-python
+pandas
+pandas-profiling
+pillow
+pyproj
+pytz
+requests
+scikit-learn
+scikit-image
+scipy
+torchinfo
+widgetsnbextension
